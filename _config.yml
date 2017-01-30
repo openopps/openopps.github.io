@@ -30,22 +30,25 @@ logoalt:
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Home
+- text: About
   url: ./
   internal: true
-- text: Example Page
-  url: example_page/
+- text: The Story Begins
+  url: getting-started/
   internal: true
-- text: DOCter Repo
-  url: https://github.com/cfpb/DOCter
-  internal: false
+#- text: DOCter Repo
+#  url: https://github.com/cfpb/DOCter
+#  internal: false
 
 # Repo list
 # List repos that you would like to appear on the homepage here
 repos:
-- name: DOCter
-  description: Jekyll template for docs
-  url: https://github.com/cfpb/DOCter
+- name: This Website
+  description: Open Opportunities story
+  url: https://github.com/openopps/openopps.github.io
+- name: OpenOpps Platform
+  description: Open source software
+  url: https://github.com/openopps/openopps-platform
 
 # Style Variables
 brand_color: "#2cb34a"
