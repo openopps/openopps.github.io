@@ -14,3 +14,4 @@ A team at GSA was chartered to support agencies in this work, with only 2 part-t
 
 Would federal employees work on tasks outside their agency in order to support each other in implementing this Digital Government strategy? To answer this question, they created the Open Opportunities program.
 
+The project got started with a ["Lean Startup" approach](/lean-startup)

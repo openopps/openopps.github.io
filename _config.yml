@@ -36,6 +36,11 @@ navigation:
 - text: The Story Begins
   url: getting-started/
   internal: true
+- text: Lean Startup
+  url: lean-startup/
+  internal: true
+
+
 #- text: DOCter Repo
 #  url: https://github.com/cfpb/DOCter
 #  internal: false
