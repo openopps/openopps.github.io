@@ -15,7 +15,7 @@ The initial hypothesis:
 Initial communications:
 
 * [Hacking the Bureaucracy One Task at a Time](https://www.digitalgov.gov/2014/06/23/hacking-the-bureaucracy-one-task-at-a-time/)
-* Open Opps Overview [video](https://www.youtube.com/watch?v=1Mha-SnOfzo&list=PLd9b-GuOJ3nHS1TFaULnHi6KIt6l83pnb&index=10)
+* [Introductory video](https://www.youtube.com/watch?v=1Mha-SnOfzo&list=PLd9b-GuOJ3nHS1TFaULnHi6KIt6l83pnb&index=10)
 
-[comment]: <> Initial a [3 year roadmap](/initial-3-year-roadmap/)
+The initial [3 year roadmap](/initial-roadmap) focused on guiding principles and goals.
 

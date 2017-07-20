@@ -39,6 +39,9 @@ navigation:
 - text: Lean Startup
   url: lean-startup/
   internal: true
+- text: Key Success Factors
+  url: key-success-factors/
+  internal: true
 
 
 #- text: DOCter Repo
