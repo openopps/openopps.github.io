@@ -39,8 +39,8 @@ navigation:
 - text: Lean Startup
   url: lean-startup/
   internal: true
-- text: Key Success Factors
-  url: key-success-factors/
+- text: Initial Roadmap
+  url: initial-roadmap/
   internal: true
 
 
