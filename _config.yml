@@ -10,7 +10,7 @@ collections:
 
 # Title
 name: The Story of Open Opportunities
-subtitle: 
+subtitle:
 
 # When using this template with a project page set the baseurl to '/project-name'
 # For user/organization pages set this to an empty string
@@ -30,19 +30,12 @@ logoalt:
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: About
+- text: Welcome
   url: ./
   internal: true
-- text: The Story Begins
+- text: Origins at GSA
   url: getting-started/
   internal: true
-- text: Lean Startup
-  url: lean-startup/
-  internal: true
-- text: Initial Roadmap
-  url: initial-roadmap/
-  internal: true
-
 
 #- text: DOCter Repo
 #  url: https://github.com/cfpb/DOCter
